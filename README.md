@@ -4,9 +4,7 @@ points of a sign video and return the label of the sign as a JSON Response.
 The Key points are generated using TensorFlow’s Pose Net.
 A detailed version of the problem can be found here: [ASL_Detect_Problem.pdf](https://github.com/rajat641/CSE535-Mobile-FE/files/4026390/Assignment2_Thursday.9.pdf)
 
-# CSE535Assignment2
-
-## Group 30
+## Group Members
 - Reet Chatterjee
 - Semira Chung
 - Baani Khurana
@@ -59,6 +57,7 @@ A detailed version of the problem can be found here: [ASL_Detect_Problem.pdf](ht
 
 
 - `/pred/`    [Example: http://18.191.155.202/pred/]
+Note: These endpoints might not work as the free AWS service might have expired.
 
 ### Request in cURL
 curl -X POST \
