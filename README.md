@@ -57,7 +57,7 @@ A detailed version of the problem can be found here: [ASL_Detect_Problem.pdf](ht
 
 
 - `/pred/`    [Example: http://18.191.155.202/pred/]
-Note: These endpoints might not work as the free AWS service might have expired.
+### Note: These endpoints might not work as the free AWS service might have expired.
 
 ### Request in cURL
 curl -X POST \
